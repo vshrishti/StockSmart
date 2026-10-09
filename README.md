@@ -2,6 +2,10 @@
 
 A modern, full-stack Retail Inventory Management System built to help businesses track their products and optimize their stock levels efficiently. 
 
+## Problem Statement
+
+Retail businesses often face challenges in tracking inventory, monitoring stock levels, and preventing product shortages. StockSmart addresses these issues by providing a centralized inventory management system that enables efficient product tracking, automated low-stock alerts, and streamlined stock management.
+
 ## 🚀 Tech Stack
 - **Frontend:** Angular 17, TypeScript, HTML5, CSS3
 - **Backend:** Java, Spring Boot, Spring Web
