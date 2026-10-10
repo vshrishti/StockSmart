@@ -50,3 +50,4 @@ Retail businesses often face challenges in tracking inventory, monitoring stock 
    npm start
    ```
 *(The frontend will start on `http://localhost:4200`).*
+
